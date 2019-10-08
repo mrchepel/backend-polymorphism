@@ -32,7 +32,6 @@
     "dist"
   ],
   "dependencies": {
-    "lodash": "^4.17.15",
-    "power-assert": "^1.6.1"
+    "lodash": "^4.17.15"
   }
 }

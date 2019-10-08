@@ -4,5 +4,6 @@
 ## Lessons:
   - [x] 1. Introduction
   - [x] 2. Parametric Polymorphism
-  - [ ] 3. 
+  - [x] 3. Dispatch data by key
+  - [ ] 4.
 
