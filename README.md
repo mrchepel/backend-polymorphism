@@ -3,5 +3,6 @@
 # JS Polymorphism
 ## Lessons:
   - [x] 1. Introduction
-  - [ ] 2. 
+  - [x] 2. Parametric Polymorphism
+  - [ ] 3. 
 

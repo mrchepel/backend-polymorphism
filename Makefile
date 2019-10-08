@@ -13,3 +13,6 @@ lint:
 
 test:
 	npm run test -s
+
+test-coverage:
+	npx jest --coverage
