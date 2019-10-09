@@ -7,4 +7,3 @@
   - [x] 3. Dispatch data by key
   - [x] 4. Dispatch functions by key
   - [x] 5. Dispatch by file
-
