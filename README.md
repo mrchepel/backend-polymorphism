@@ -5,5 +5,5 @@
   - [x] 1. Introduction
   - [x] 2. Parametric Polymorphism
   - [x] 3. Dispatch data by key
-  - [ ] 4.
+  - [x] 4. Dispatch functions by key
 

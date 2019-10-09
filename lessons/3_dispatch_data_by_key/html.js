@@ -1,11 +1,11 @@
 const getLinks = (tags) => {
-  const tagLink = {
+  const mapping = {
     img: 'src',
     link: 'href',
     a: 'href',
   };
-  return tags.filter((item) => tagLink[item.name])
-    .reduce((acc, item) => [...acc, item[tagLink[item.name]]], []);
+  return tags.filter((item) => mapping[item.name])
+    .reduce((acc, item) => [...acc, item[mapping[item.name]]], []);
 };
 
 export default getLinks;
