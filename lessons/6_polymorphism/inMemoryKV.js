@@ -23,6 +23,3 @@ class InMemoryKV {
 }
 
 export default InMemoryKV;
-
-const map = new InMemoryKV({ key: 10 });
-console.log(map);
