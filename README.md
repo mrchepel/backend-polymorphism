@@ -7,3 +7,6 @@
   - [x] 3. Dispatch data by key
   - [x] 4. Dispatch functions by key
   - [x] 5. Dispatch by file
+  - [x] 6. Polymorphism
+  - [x] 7. Null object pattern
+  - [x] 8. Breaking polymorphism
